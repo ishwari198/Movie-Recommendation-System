@@ -30,6 +30,18 @@ Open the static/recommend.js file and replace YOUR_API_KEY at line no. 2 with yo
 
 ### Run the Application:
 Open your terminal/command prompt from the project directory.
-
 python main.py
+
+##Install Dependencies:
+Install all the required libraries listed in the requirements.txt file.
+Replace API Key:
+Open your web browser and go to http://127.0.0.1:5000/
+
+xplore the application to search for movies, view details, and get recommendations.
+Datasets Sources
+IMDB 5000 Movie Dataset
+The Movies Dataset
+List of movies in 2018
+List of movies in 2019
+List of movies in 2020
 
