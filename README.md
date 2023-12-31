@@ -17,7 +17,19 @@ Follow these steps:
 
 ## Getting Started
 
-### Clone the Repository:
+### Clone the Repository
 
-```bash
+``` bash 
 git clone https://github.com/your-username/movie-recommendation.git
+pip install -r requirements.txt 
+exit 
+
+## Replace API Key
+
+Open the static/recommend.js file and replace YOUR_API_KEY at line no. 2 with your actual API key. ```
+
+### Run the Application:
+Open your terminal/command prompt from the project directory.
+
+python main.py
+
