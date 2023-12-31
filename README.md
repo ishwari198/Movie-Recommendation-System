@@ -22,7 +22,7 @@ Follow these steps:
 ``` bash 
 git clone https://github.com/your-username/movie-recommendation.git
 pip install -r requirements.txt 
-exit 
+```
 
 ## Replace API Key
 
@@ -37,11 +37,15 @@ Install all the required libraries listed in the requirements.txt file.
 Replace API Key:
 Open your web browser and go to http://127.0.0.1:5000/
 
-xplore the application to search for movies, view details, and get recommendations.
+``` bash 
+explore the application to search for movies, view details, and get recommendations.
 Datasets Sources
 IMDB 5000 Movie Dataset
 The Movies Dataset
 List of movies in 2018
 List of movies in 2019
 List of movies in 2020
+```
 
+## Credits
+https://github.com/kishan0725/The-Movie-Cinema
